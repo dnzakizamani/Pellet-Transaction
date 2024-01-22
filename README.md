@@ -26,9 +26,9 @@ Pellet Transaction adalah proyek yang bertujuan untuk mengotomatisasi proses pen
 - Kabel dan konektor
 
 ### Perangkat Lunak (Website)
-- HTML, CSS, JavaScript untuk antarmuka pengguna
-- Database (misalnya MySQL) untuk menyimpan data transaksi dan stok barang
-- Bahasa pemrograman server-side (misalnya PHP) untuk mengelola koneksi database dan operasi logika
+- Angular untuk antarmuka pengguna
+- Database MySQL untuk menyimpan data transaksi dan stok barang
+- Framework Laravel untuk mengelola koneksi database dan operasi logika
 
 ## Cara Kerja
 
