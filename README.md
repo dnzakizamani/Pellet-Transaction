@@ -5,7 +5,7 @@
 Pellet Transaction adalah proyek yang bertujuan untuk mengotomatisasi proses pencatatan dan manajemen stok barang berbasis berat menggunakan Arduino Uno, servo, dan timbangan. Proyek ini terdiri dari dua komponen utama, yaitu:
 
 1. **Website**
-   - Sebuah platform web yang berfungsi sebagai antarmuka pengguna untuk melihat dan mengelola data transaksi serta stok barang.
+   - Sebuah platform web Laravel + Angular yang berfungsi sebagai antarmuka pengguna untuk melihat dan mengelola data transaksi serta stok barang.
    - Mengintegrasikan database untuk menyimpan data transaksi secara real-time.
    - Menghasilkan kode barang otomatis berdasarkan berat yang diukur.
 
